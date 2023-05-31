@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarefa</string>
+    <string name="titulo">SENSORES</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="luz">Luminosidade:</string>
+    <string name="humidade">Humidade:</string>
+    <string name="proximidade">Proximidade:</string>
+</resources>
